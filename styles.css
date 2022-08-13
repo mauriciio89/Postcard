@@ -1,0 +1,37 @@
+.post {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.contenedor {
+    background-color: white;
+    width: 600px;
+    padding-bottom: 10px;
+          
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.htmlicon {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.sizeicono {
+    font-size: 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
